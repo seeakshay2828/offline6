@@ -18,3 +18,7 @@ dcsbvkvuhjdbkjdvjlk
 dhvdjbljdvldbl
 djhvldbldblndl
 kbdbdn;n;odn'p'
+
+num=int(input("enter num:"))
+for i in range(num):
+    print(i)
